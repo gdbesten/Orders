@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orders", "Orders\Orders.csproj", "{A3E573E3-EC93-4E6D-B95B-8CC7D1935521}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestOrders", "..\TestOrders\TestOrders.csproj", "{AB1FCD9D-3E56-4D5C-A3BD-C943F87C8D07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3E573E3-EC93-4E6D-B95B-8CC7D1935521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E573E3-EC93-4E6D-B95B-8CC7D1935521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E573E3-EC93-4E6D-B95B-8CC7D1935521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E573E3-EC93-4E6D-B95B-8CC7D1935521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB1FCD9D-3E56-4D5C-A3BD-C943F87C8D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1FCD9D-3E56-4D5C-A3BD-C943F87C8D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1FCD9D-3E56-4D5C-A3BD-C943F87C8D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1FCD9D-3E56-4D5C-A3BD-C943F87C8D07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
